@@ -4,4 +4,5 @@ Mathematician. Homepage: https://sites.google.com/view/teobanica
 
 ### Math papers
 
+- [002](https://github.com/teobanica/002) — with GPT, Regular complex Hadamard matrices of order 7,8 (2026)
 - [001](https://github.com/teobanica/001) — with Claude, On the maximality conjecture for quantum permutation groups (2026)
