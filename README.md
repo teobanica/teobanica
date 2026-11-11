@@ -1,6 +1,6 @@
 ## Teo Banica
 
-Mathematician/physicist. Homepage https://sites.google.com/view/teobanica.
+Mathematician. Homepage https://sites.google.com/view/teobanica.
 
 Repositories 001, 002.. contain my recent papers. Pinned below the latest 4.
 
